@@ -1,7 +1,5 @@
-
-CLASS MANAGEMENT SYSTEM 
-
-
+# Class_Management_System
+ 
 
 BY
 
