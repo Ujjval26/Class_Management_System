@@ -1,7 +1,7 @@
 # Class_Management_System
  
 
-BY
+Team Members -
 
 JINAY SHAH 
 
